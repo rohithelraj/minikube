@@ -1,0 +1,1 @@
+minikube settings for chronos
